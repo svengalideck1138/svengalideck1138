@@ -27,6 +27,14 @@
 
 ---
 
+### 🖥️ Platforms & OS
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Raspbian](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+---
+
 ### 🔩 Embedded / Hardware
 
 **MCU**
@@ -61,14 +69,6 @@
 ### 🔬 Circuit Simulation
 
 ![TI-TINA](https://img.shields.io/badge/TI--TINA-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
-
----
-
-### 🖥️ Platforms & OS
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Raspbian](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ---
 
