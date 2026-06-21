@@ -1,6 +1,4 @@
-## 🛠️ Tech Stack
-
----
+## Tech Stack
 
 ### 💻 Software
 
@@ -65,19 +63,3 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=svengalideck1138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svengalideck1138&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svengalideck1138&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=svengalideck1138&theme=tokyo-night&hide_border=true)
-
-</div>
