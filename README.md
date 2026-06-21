@@ -1,5 +1,6 @@
-## 🛠️ Tech Stack
+## Tech Stack
 
+---
 ### 💻 Software
 
 **Programming Languages**
@@ -18,6 +19,7 @@
 
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
 ### 🔩 Embedded / Hardware
 
@@ -32,22 +34,23 @@
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
+---
 ### 🛰️ EDA / PCB Design
 
 ![PADS](https://img.shields.io/badge/PADS-00529B?style=for-the-badge&logoColor=white)
 ![OrCAD](https://img.shields.io/badge/OrCAD-008000?style=for-the-badge&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![DesignSpark PCB](https://img.shields.io/badge/DesignSpark%20PCB-E2001A?style=for-the-badge&logoColor=white)
-
+---
 ### 📡 RF / Microwave
 
 ![AWR](https://img.shields.io/badge/AWR-0072CE?style=for-the-badge&logoColor=white)
 ![ADS](https://img.shields.io/badge/Keysight%20ADS-C8102E?style=for-the-badge&logoColor=white)
-
+---
 ### 🔬 Circuit Simulation
 
 ![TI-TINA](https://img.shields.io/badge/TI--TINA-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
-
+---
 ### 🖥️ Platforms & OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
