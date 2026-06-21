@@ -76,3 +76,23 @@
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+### 📟 Test & Measurement
+
+**Manufacturers**
+
+![Keysight](https://img.shields.io/badge/Keysight-C8102E?style=for-the-badge&logoColor=white)
+![Rohde & Schwarz](https://img.shields.io/badge/Rohde%20%26%20Schwarz-0099CC?style=for-the-badge&logoColor=white)
+![Tektronix](https://img.shields.io/badge/Tektronix-EE3124?style=for-the-badge&logoColor=white)
+![Anritsu](https://img.shields.io/badge/Anritsu-003DA5?style=for-the-badge&logoColor=white)
+
+**Instruments**
+
+![Spectrum Analyzer](https://img.shields.io/badge/Spectrum%20Analyzer-1F6FEB?style=for-the-badge&logoColor=white)
+![Network Analyzer (VNA)](https://img.shields.io/badge/Network%20Analyzer%20(VNA)-6E40C9?style=for-the-badge&logoColor=white)
+![Signal Generator](https://img.shields.io/badge/Signal%20Generator-2EA043?style=for-the-badge&logoColor=white)
+![Power Supply](https://img.shields.io/badge/Power%20Supply-D29922?style=for-the-badge&logoColor=white)
+![Function Generator](https://img.shields.io/badge/Function%20Generator-DB61A2?style=for-the-badge&logoColor=white)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-1A7F37?style=for-the-badge&logoColor=white)
