@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Zhenyu+%F0%9F%91%8B;Embedded+%26+RF+Engineer;C%23+%7C+C%2FC%2B%2B+%7C+Python;ESP32+%7C+STM32+%7C+Raspberry+Pi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Zhenyu+%F0%9F%91%8B;C%23+%7C+C%2FC%2B%2B+%7C+Python;ESP32+%7C+STM32+%7C+Raspberry+Pi)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,3 +69,10 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+---
+
+### 🤖 AI / LLM
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
