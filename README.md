@@ -1,4 +1,10 @@
-## Tech Stack
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Zhenyu+%F0%9F%91%8B;Embedded+%26+RF+Engineer;C%23+%7C+C%2FC%2B%2B+%7C+Python;ESP32+%7C+STM32+%7C+Raspberry+Pi)](https://git.io/typing-svg)
+
+</div>
+
+## 🛠️ Tech Stack
 
 ### 💻 Software
 
