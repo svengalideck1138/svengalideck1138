@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Zhenyu+%F0%9F%91%8B;C%23+%7C+C%2FC%2B%2B+%7C+Python;ESP32+%7C+STM32+%7C+Raspberry+Pi+%7C+ATmega)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=Hi+there%2C+I'm+Zhenyu+%F0%9F%91%8B;C%23+%7C+C%2FC%2B%2B+%7C+Python;ESP32+%7C+STM32+%7C+Raspberry+Pi+%7C+ATmega)](https://git.io/typing-svg)
 
 </div>
 
