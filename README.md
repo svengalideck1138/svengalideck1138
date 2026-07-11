@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Zhenyu+%F0%9F%91%8B;C%23+%7C+C%2FC%2B%2B+%7C+Python;ESP32+%7C+STM32+%7C+Raspberry+Pi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Hi+there%2C+I'm+Zhenyu+%F0%9F%91%8B;C%23+%7C+C%2FC%2B%2B+%7C+Python;ESP32+%7C+STM32+%7C+Raspberry+Pi+%7C+ATmega)](https://git.io/typing-svg)
 
 </div>
 
-<h1 align="center">Tech Stack</h1>
+<h1 align="center">◈Tech Stack◈</h1>
 
-## Software
+## ▶ Software
 
 **Programming Languages**
 
@@ -25,13 +25,13 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## Platforms & OS
+## ▶ Platforms & OS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Raspbian](https://img.shields.io/badge/Raspbian-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-## Embedded / Hardware
+## ▶ Embedded / Hardware
 
 **MCU**
 
@@ -44,23 +44,23 @@
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-## EDA / PCB Design
+## ▶ EDA / PCB Design
 
 ![PADS](https://img.shields.io/badge/PADS-00529B?style=for-the-badge&logoColor=white)
 ![OrCAD](https://img.shields.io/badge/OrCAD-008000?style=for-the-badge&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![DesignSpark PCB](https://img.shields.io/badge/DesignSpark%20PCB-E2001A?style=for-the-badge&logoColor=white)
 
-## RF / Microwave
+## ▶ RF / Microwave
 
 ![AWR](https://img.shields.io/badge/AWR-0072CE?style=for-the-badge&logoColor=white)
 ![ADS](https://img.shields.io/badge/Keysight%20ADS-C8102E?style=for-the-badge&logoColor=white)
 
-## Circuit Simulation
+## ▶ Circuit Simulation
 
 ![TI-TINA](https://img.shields.io/badge/TI--TINA-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
 
-## Test & Measurement
+## ▶ Test & Measurement
 
 **Manufacturers**
 
@@ -77,8 +77,3 @@
 ![Power Supply](https://img.shields.io/badge/Power%20Supply-D29922?style=for-the-badge&logoColor=white)
 ![Function Generator](https://img.shields.io/badge/Function%20Generator-DB61A2?style=for-the-badge&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-1A7F37?style=for-the-badge&logoColor=white)
-
-## AI / LLM
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
